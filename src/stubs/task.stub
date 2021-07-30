@@ -1,0 +1,15 @@
+<?php
+
+namespace {{namespace}};
+
+class {{class}}
+{
+    /**
+    * Run task
+    */
+
+    public function run()
+    {
+
+    }
+}

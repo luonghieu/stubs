@@ -1,0 +1,15 @@
+<?php
+
+namespace {{namespace}};
+
+class {{class}}
+{
+    /**
+    * Run action
+    */
+
+    public function run()
+    {
+
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "hieuluong/stubs",
+    "description": "Laravel Example module",
+    "authors": [
+        {
+            "name": "Neolab Memeber",
+            "email": "dev@neo-lab.vn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hieuluong\\Stubs\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Hieuluong\\Stubs\\ExampleServiceProvider"
+            ]
+        }
+    }
+}
